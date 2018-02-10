@@ -1,2 +1,4 @@
 # Textorama
-Small Text editor using c99
+Small Text editor
+
+### Language used - C99
